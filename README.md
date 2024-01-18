@@ -1,3 +1,127 @@
+Google - [https://www.google.com/](https://www.google.com/)
+
+Google Advanced Search
+- [https://www.google.com/advanced_search](https://www.google.com/advanced_search) [ Best
+for advance GUI ]
+
+Google Search Guide
+- [http://www.googleguide.com/print/adv_op_ref.pdf](http://www.googleguide.com/print/adv_op_r
+ef.pdf)
+
+Bing - [https://www.bing.com/](https://www.bing.com/)
+
+Bing Search Guide
+- [https://www.bruceclay.com/blog/bing-google-advanced-search-operators/](https://www.brucec
+lay.com/blog/bing-google-advanced-search-operators/)
+
+Yandex - [https://yandex.com/](https://yandex.com/) [ Russian based search engine ]
+
+DuckDuckGo - [https://duckduckgo.com/](https://duckduckgo.com/)
+
+DuckDuckGo Search Guide
+- [https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/](https://help.duckduckgo.
+com/duckduckgo-help-pages/results/syntax/)
+
+Baidu - [http://www.baidu.com/](https://www.baidu.com/)
+
+Google Docking
+
+allintext:username filetype:log
+
+intitle:"index of" /ftp
+
+intitle:"webcampXP 5"
+
+db_password filetype:env
+
+filetype:inc php -site:github.com -site:sourceforce.net
+
+password hacking site:cyberbangla.org
+
+Find any information very easy: site:tesla.com password
+
+site:tesla.com password filetype:pdf
+
+site:[tesla.com]http://tesla.com/ -www -forums [ for finding subdomain ][
+-www means,show the the result exclude www]
+
+intext:password , inurl:index.php ,intitle:password
+
+filetype:
+
+Search for a file by its extension (e.g. PDF)
+
+cache:
+View Google's Cached version of a specified URL
+
+intitle:
+The specified phrase MUST appear in the title of the
+page
+
+https://github.com/dwisiswant0/go-dork
+
+https://github.com/Ekultek/Zeus-Scanner
+
+https://gist.github.com/ikuamike/c2611b171d64b823c1c195612
+9cbc055
+
+Reverse image search:
+
+Google Image Search
+- [https://images.google.com](https://images.google.com/)
+
+Yandex - [https://yandex.com](https://yandex.com/)
+
+TinEye - [https://tineye.com](https://tineye.com/)
+
+Viewing Exif data:
+
+Jeffrey's Image Metadata Viewer
+- [http://exif.regex.info/exif.cgi](http://exif.regex.info/exif.cgi)
+
+https://www.duplichecker.com/reverse-image-search.php
+
+Email OSINT
+
+Hunter.io - [https://hunter.io/](https://hunter.io/)
+
+Phonebook.cz - [https://phonebook.cz/](https://phonebook.cz/)
+
+VoilaNorbert
+- [https://www.voilanorbert.com/](https://www.voilanorbert.com/)
+
+Email Hippo
+- [https://tools.verifyemailaddress.io/](https://tools.verifyemailaddress.i
+o/)
+
+Email Checker
+- [https://email-checker.net/validate](https://email-checker.net/validate
+)
+
+Clearbit Connect - Supercharge Gmail
+
+[https://chrome.google.com/webstore/detail/clearbit-connect-superch
+a/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en](https://chrome.google.c
+om/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdc
+anjablaabjplo?hl=en) [ Google chrome extension ]
+
+Hunting Phone Numbers
+
+TrueCaller - [https://www.truecaller.com/](https://www.truecaller.com/)
+
+CallerID Test - [https://calleridtest.com/](https://calleridtest.com/)
+
+Infobel - [https://infobel.com/](https://infobel.com/)
+
+[https://www.okcaller.com/](https://www.okcaller.com/)
+
+https://sundowndev.github.io/phoneinfoga/
+
+./phoneinfoga serve -p 8080
+
+OSINT Framework
+
+https://osintframework.com/
 # Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
